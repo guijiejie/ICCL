@@ -1,0 +1,4 @@
+tqdm
+einops
+timm
+mmcv==0.6.0
